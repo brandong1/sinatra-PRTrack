@@ -3,6 +3,11 @@
 [] Research unique username/email validation
 [] Research password complexity validation.
 [] Research validation failures w/error messages - https://github.com/SFEley/sinatra-flash
+<<<<<<< HEAD
 [] Learn about Bootstrap
 
 [x] Add test commit from Windows VSCode.
+=======
+[] Learn about Bootstrap by completing the HTML/CSS sections on Learn.co
+[] Research what to do with the layout.erb and welcome.erb files.
+>>>>>>> a879562ffc35259b2d33bc0a1fe8b2f70f7ed30c
